@@ -1,3 +1,3 @@
-# Мои работы по FE
+# Grid
 
-- [ссылка на работу](https://zahoruiko.github.io/lesson-grid/)
+- [Link to the result](https://zahoruiko.github.io/lesson-grid/)
